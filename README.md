@@ -14,5 +14,3 @@ BGM
     
     -- breathing sound
 
-
-![Image text](https://raw.github.com/korewanandesuka/repository/master/stelarc/img/IMG_7988(20231028-120403).JPG)
